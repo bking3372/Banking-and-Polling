@@ -9,9 +9,7 @@
   -  The greatest increase in profits (date and amount) over the entire period
   -  The greatest decrease in losses (date and amount) over the entire period
   
-**Results:**
-
-Financial Analysis
+**Financial Analysis Results:**
 
   * Total months:  86
   * Total profit/loss:  $38,382,578
@@ -29,9 +27,7 @@ Financial Analysis
   -  The total number of votes each candidate won
   -  The winner of the election based on the popular vote
 
-**Results:**
-
-Election Results
+**Election Results:**
 
   Total votes:  3,521,001
 
