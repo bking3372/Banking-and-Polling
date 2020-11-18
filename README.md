@@ -13,11 +13,11 @@
 
 Financial Analysis
 
-  Total months:  86
-  Total profit/loss:  $38,382,578
-  Average change:  -$2,315.12
-  Greatest increase:  Feb 12  $1,926,159
-  Greatest decrease:  Sep 13  -$2,196,167
+  * Total months:  86
+  * Total profit/loss:  $38,382,578
+  * Average change:  -$2,315.12
+  * Greatest increase:  Feb 12  $1,926,159
+  * Greatest decrease:  Sep 13  -$2,196,167
   
 
 ### Polling Analysis
@@ -35,8 +35,8 @@ Election Results
 
   Total votes:  3,521,001
 
-  Khan:  63% (2,218,231)  WINNER
-  Correy:  20%  (704,200)
-  Li:  14%  (492,940)
-  O'Tooley:  3%  (105,630)
+  * Khan:  63% (2,218,231)  WINNER
+  * Correy:  20%  (704,200)
+  * Li:  14%  (492,940)
+  * O'Tooley:  3%  (105,630)
 
